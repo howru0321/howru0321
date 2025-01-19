@@ -6,7 +6,7 @@
 
 ### Current Focus
 
-- Working as a **Software Engineer** at [Plask](https://plask.ai/) (Jul 2024 - Present)
+- Working as a **Backend Engineer** at [Squeezebits](https://www.squeezebits.com/) (Jan 2025 - Present)
 
 ---
 
@@ -26,7 +26,8 @@
 
 ### Work Experience
 
-- Software Engineer Intern, Plask(Jul 2024 - Present)
+- Backend Engineer, Squeezebits(Jan 2025 - Present)
+- Software Engineer Intern, Plask(Jul 2024 - Nov 2024)
   - Focused on backend, machine learning, and deep learning projects for new product development.
 -  Software Engineer Intern, Plask(Dec 2022 - Feb 2023)
   - Developed and led the creation of a plugin to integrate Plask LP data into the UE environment, enhancing Plask's compatibility within the 3D animation market.
